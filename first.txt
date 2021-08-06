@@ -8,4 +8,4 @@ GITの練習をしています。
 5.何かしました。
 6.一度削除したファイルを再度作成しました。
 7.git status
-8.git diff
+8.git diffk
